@@ -53,8 +53,11 @@ Estamos siempre abiertos a la colaboración académica, proyectos con la industr
 Si estás interesado en saber más sobre nuestro trabajo o explorar oportunidades de colaboración, por favor contáctanos.
 
 📧 **Correo Electrónico:** alexander.barqueroelizondo@ucr.ac.cr
-🌐 **Sitio Web:** (https://www.linkedin.com/in/alexanderbarquero/)
+
+🌐 **LinkedIn:** (https://www.linkedin.com/in/alexanderbarquero/)
+
 🏢 **Ubicación:** Universidad de Costa Rica, San Pedro, San José, Costa Rica.
 
 ---
+
 © 2025 AURAxLab. Todos los derechos reservados.
