@@ -54,7 +54,7 @@ Si estás interesado en saber más sobre nuestro trabajo o explorar oportunidade
 
 📧 **Correo Electrónico:** alexander.barqueroelizondo@ucr.ac.cr
 
-🌐 **LinkedIn:** (https://www.linkedin.com/in/alexanderbarquero/)
+🌐 **LinkedIn:** https://www.linkedin.com/in/alexanderbarquero/
 
 🏢 **Ubicación:** Universidad de Costa Rica, San Pedro, San José, Costa Rica.
 
