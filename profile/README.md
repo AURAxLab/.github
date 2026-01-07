@@ -6,7 +6,7 @@
 
 ## Sobre Nosotros
 
-Bienvenido al repositorio oficial de **AURAxLab**. Somos un laboratorio de investigación e innovación ubicado en la Universidad de Costa Rica, dedicado a explorar la frontera donde las tecnologías emergentes convergen con el factor humano.
+Bienvenido al repositorio oficial de **AURAxLab**, un laboratorio de investigación e innovación ubicado en la Universidad de Costa Rica, dedicado a explorar la frontera donde las tecnologías emergentes convergen con el factor humano.
 
 En un mundo cada vez más digitalizado, no basta con desarrollar tecnología; es crucial entender cómo esta se siente, se usa y afecta nuestras vidas.
 
@@ -52,11 +52,11 @@ Estamos siempre abiertos a la colaboración académica, proyectos con la industr
 
 Si estás interesado en saber más sobre nuestro trabajo o explorar oportunidades de colaboración, por favor contáctanos.
 
-📧 **Correo Electrónico:** alexander.barqueroelizondo@ucr.ac.cr
+**Correo Electrónico:** alexander.barqueroelizondo@ucr.ac.cr
 
-🌐 **LinkedIn:** https://www.linkedin.com/in/alexanderbarquero/
+**LinkedIn:** https://www.linkedin.com/in/alexanderbarquero/
 
-🏢 **Ubicación:** Universidad de Costa Rica, San Pedro, San José, Costa Rica.
+**Ubicación:** Universidad de Costa Rica, San Pedro, San José, Costa Rica.
 
 ---
 
