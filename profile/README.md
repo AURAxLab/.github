@@ -16,10 +16,10 @@ Nuestra filosofía se basa en que la verdadera innovación surge en la cooperaci
 
 Nuestra investigación se estructura en torno a la convergencia de cuatro pilares fundamentales que definen la experiencia final:
 
-* 🧠 **A - Agentes:** Investigación en Agentes Virtuales Inteligentes y sistemas autónomos que interactúan con las personas de manera natural.
-* 👤 **U - Usuarios:** Diseño centrado en el humano (UCD) y contemplando factores humanos e interactivos. Entendemos a las personas antes de construir soluciones.
-* 🥽 **R - Realidad:** Exploración inmersiva a través de medios tradicionales y realidades extendidas (XR), incluyendo realidad virtual (VR), aumentada (AR) y mixta (MR).
-* 💻 **A - Algoritmos:** Diseño de soluciones computacionales robustas, abarcando inteligencia artificial (IA), machine learning, ciberseguridad, y la ingeniería del software como tal.
+* **A - Agentes:** Investigación en Agentes Virtuales Inteligentes y sistemas autónomos que interactúan con las personas de manera natural.
+* **U - Usuarios:** Diseño centrado en el humano (UCD) y contemplando factores humanos e interactivos. Entendemos a las personas antes de construir soluciones.
+* **R - Realidad:** Exploración inmersiva a través de medios tradicionales y realidades extendidas (XR), incluyendo realidad virtual (VR), aumentada (AR) y mixta (MR).
+* **A - Algoritmos:** Diseño de soluciones computacionales robustas, abarcando inteligencia artificial (IA), machine learning, ciberseguridad, y la ingeniería del software como tal.
 
 ---
 
